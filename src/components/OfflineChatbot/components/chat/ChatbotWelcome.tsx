@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { useApplicationContext } from "../../contexts/ApplicationContext";
 
-const GITHUB_URL = "https://github.com/mrmendoza-dev/offline-chatbot";
+const GITHUB_URL = "https://github.com/itskhateeb/offline-ai-chatbot";
 
 export const ChatbotWelcome = () => {
   const { setModelSelectorOpen } = useApplicationContext();

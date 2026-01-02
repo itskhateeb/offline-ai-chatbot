@@ -14,7 +14,7 @@ import { ModelSelectorPopover } from "./ModelSelectorPopover";
 
 export const ChatNavbar = ({ className }: { className?: string }) => {
   const handleGithub = () => {
-    window.open("https://github.com/mrmendoza-dev/offline-chatbot", "_blank");
+    window.open("https://github.com/itskhateeb/offline-ai-chatbot", "_blank");
   };
 
   const { resetChat } = useChatContext();
