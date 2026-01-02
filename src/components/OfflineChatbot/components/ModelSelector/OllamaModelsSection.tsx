@@ -109,7 +109,7 @@ export const OllamaModelsSection = ({
       <div>
         <h4 className="text-sm font-medium mb-2">Ollama Models</h4>
         <a
-          href="https://github.com/mrmendoza-dev/offline-chatbot"
+          href="https://github.com/itskhateeb/offline-ai-chatbot"
           target="_blank"
           rel="noopener noreferrer"
           className="text-xs text-primary hover:underline"
